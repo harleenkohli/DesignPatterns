@@ -1,2 +1,2 @@
 # DesignPatterns
-Head First Design Patterns exercises
+"Head First Design Patterns" exercises and notes.
